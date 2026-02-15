@@ -1,48 +1,48 @@
 {
-"items": [
+  "audiobooks": [
     {
-      "@context": "https://schema.org",
+      "@context": "https://librivox.org",
       "@type": "Audiobook",
       "id": "1",
       "name": "Pride and Prejudice",
-      "description": "First version of the classic book by Jane Austen in the catalog"
+      "description": "First version in the catalog"
     },
-  {
-      "@context": "https://schema.org",
+    {
+      "@context": "https://librivox.org",
       "@type": "Audiobook",
-      "id": "1",
-      "name": "Pride and Prejudice (version 2)",
-      "description": "Second version of the classic book by Jane Austen in the catalog"
+      "id": "2",
+      "name": "Pride and Prejudice version 2",
+      "description": "Second version in the catalog"
     },
-   {
-      "@context": "https://schema.org",
+    {
+      "@context": "https://librivox.org",
       "@type": "Audiobook",
-      "id": "1",
-      "name": "Pride and Prejudice (version 3)",
-      "description": "Third version of the classic book by Jane Austen in the catalog"
+      "id": "3",
+      "name": "Pride and Prejudice version 3",
+      "description": "Third version in the catalog"
     },
-     {
-      "@context": "https://schema.org",
+    {
+      "@context": "https://librivox.org",
       "@type": "Audiobook",
-      "id": "1",
+      "id": "4",
       "name": "Wuthering Heights",
-      "description": "First version of the classic book by Emily Brontë in the catalog"
+      "description": "First version in the catalog"
     },
-  {
-      "@context": "https://schema.org",
+    {
+      "@context": "https://librivox.org",
       "@type": "Audiobook",
-      "id": "1",
-      "name": "Wuthering Heights (version 2)",
-      "description": "Second version of the classic book by Emily Brontë in the catalog"
-    },
+      "id": "5",
+      "name": "Wuthering Heights version 2",
+      "description": "Second version in the catalog"
+    }
   ],
   "users": [
     {
-      "@context": "https://schema.org",
+      "@context": "https://librivox.org",
       "@type": "Author",
       "id": "1",
       "name": "Jane Austen",
-      "description": "1775-1817",
+      "description": "TK",
       "itemId": "1"
     },
     {
@@ -50,16 +50,16 @@
       "@type": "Author",
       "id": "2",
       "name": "Emily Brontë",
-      "description": "1818-1848",
+      "description": "TK",
       "itemId": "2"
-    },
-],
+    }
+  ],
   "collection": {
-    "@context": "https://schema.org/",
+    "@context": "https://librivox.org/",
     "@type": "Collection",
-    "name": "LibriVoxAudiobooks",
-    "creator": "jakefolsomsjsu",
-    "about": "A collection of audiobooks available for download from LibriVox.org",
-    "url": "https://github.com/jakefolsomsjsu"
+    "name": "LibriVox Audiobooks",
+    "creator": "LibriVox",
+    "about": "A collection of public domain audiobooks",
+    "url": "https://www.librivox.org"
   }
 }
