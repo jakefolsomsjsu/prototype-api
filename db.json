@@ -1,0 +1,64 @@
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "LibriVox Audiobooks",
+    "creator": "jakefolsomsjsu",
+    "about": "A collection of audiobooks available for download from LibriVox.org",
+    "url": "https://github.com/jakefolsomsjsu"
+  }
+}
+"items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Pride and Prejudice",
+      "description": "First version of the classic book by Jane Austen in the catalog"
+    },
+  {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Pride and Prejudice (version 2)",
+      "description": "Second version of the classic book by Jane Austen in the catalog"
+    },
+   {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Pride and Prejudice (version 3)",
+      "description": "Third version of the classic book by Jane Austen in the catalog"
+    },
+     {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Wuthering Heights",
+      "description": "First version of the classic book by Emily Brontë in the catalog"
+    },
+  {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Wuthering Heights (version 2)",
+      "description": "Second version of the classic book by Emily Brontë in the catalog"
+    },
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Jane Austen",
+      "description": "Author.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Emily Brontë",
+      "description": "Author.",
+      "itemId": "2"
+    },
+]
