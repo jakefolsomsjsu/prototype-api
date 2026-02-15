@@ -1,7 +1,7 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "LibriVox Audiobooks",
+    "name": "LibriVoxAudiobooks",
     "creator": "jakefolsomsjsu",
     "about": "A collection of audiobooks available for download from LibriVox.org",
     "url": "https://github.com/jakefolsomsjsu"
